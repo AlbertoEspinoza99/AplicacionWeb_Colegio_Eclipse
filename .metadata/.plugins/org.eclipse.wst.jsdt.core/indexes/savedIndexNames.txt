@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\rodolfo alberto\Desktop\Proyecto a subir github\Lenguaje de Programacion c4\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1107779114.index

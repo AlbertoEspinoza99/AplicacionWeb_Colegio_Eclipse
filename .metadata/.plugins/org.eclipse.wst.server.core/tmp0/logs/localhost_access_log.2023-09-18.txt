@@ -1,0 +1,7 @@
+127.0.0.1 - - [18/Sep/2023:06:14:01 -0500] "GET / HTTP/1.1" 404 1002
+0:0:0:0:0:0:0:1 - - [18/Sep/2023:06:14:01 -0500] "GET /aplicacion/index.html HTTP/1.1" 200 193
+0:0:0:0:0:0:0:1 - - [18/Sep/2023:06:14:06 -0500] "GET /aplicacion/ServletDocente?tipo=LISTAR HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Sep/2023:06:14:06 -0500] "GET /aplicacion/login.jsp?MENSAJE=debe%20iniciar%20sesi%F3n HTTP/1.1" 200 3829
+0:0:0:0:0:0:0:1 - - [18/Sep/2023:06:14:06 -0500] "GET /aplicacion/js/jquery-3.5.1.js HTTP/1.1" 200 287630
+0:0:0:0:0:0:0:1 - - [18/Sep/2023:06:14:06 -0500] "GET /aplicacion/css/bootstrap.min.css HTTP/1.1" 200 163873
+0:0:0:0:0:0:0:1 - - [18/Sep/2023:06:14:08 -0500] "POST /aplicacion/ServletUsuario?accion=INICIAR HTTP/1.1" 200 2253

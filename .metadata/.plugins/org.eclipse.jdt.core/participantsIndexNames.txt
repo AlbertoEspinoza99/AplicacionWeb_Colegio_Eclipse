@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\rodolfo alberto\Desktop\Proyecto a subir github\Lenguaje de Programacion c4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\429564980.index
+\LPII-Semana01\src\main\java
+C:\Users\rodolfo alberto\Desktop\Proyecto a subir github\Lenguaje de Programacion c4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3113641018.index
+\aplicacion\src\main\java
